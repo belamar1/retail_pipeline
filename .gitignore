@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & output (keep raw sample CSVs if you want)
+data/*.csv
+!data/retail_sales.csv   # keep the example dataset
+output/
+
+# Logs & temp files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
