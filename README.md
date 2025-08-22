@@ -75,3 +75,13 @@ matplotlib >= 3.8.0
 
 jupyter >= 1.0.0
 
+📸 Screenshots
+
+**Retail Sales Dashboard**  
+![Retail Sales Dashboard - Streamlit overview](assets/Retail%20Sales_Dashboard.png)
+
+**Revenue Over Time**  
+![Revenue Over Time - Line chart of sales](assets/Revenue_Over_Time.png)
+
+**Top Categories by Revenue**  
+![Top Categories by Revenue - Bar chart](assets/Top_Categories_by_Revenue.png)
