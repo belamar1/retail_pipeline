@@ -16,7 +16,7 @@ retail_pipeline/
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/retail_pipeline.git
+git clone https://github.com/belamar1/retail_pipeline.git
 cd retail_pipeline
 
 
